@@ -18,7 +18,7 @@ Steps to run the notebook->
 # Clone the repository
 
 # Run this command to install required dependencies:
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 After installing dependencies, run given jupyter notebook
 
