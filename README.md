@@ -15,11 +15,10 @@ https://christopher.su/2015/selenium-chromedriver-ubuntu/
 https://www.kenst.com/2015/03/installing-chromedriver-on-mac-osx/
 
 Steps to run the notebook->
-Clone the repository
+# Clone the repository
 
-Run this command to install required dependencies:
+# Run this command to install required dependencies:
     pip install requirements.txt
 
-After installing dependencies
-Run this jupyter notebook
+After installing dependencies, run given jupyter notebook
 
