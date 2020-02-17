@@ -1,0 +1,4 @@
+Selenium 3.141.0
+BeautifulSoup4 4.8.2
+urllib3 1.25.8
+
